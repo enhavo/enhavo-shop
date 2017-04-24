@@ -1236,12 +1236,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/enhavo/enhavo.git",
-                "reference": "cd0a46f7495ac40be1c2f9edf8b784af7a00ed3e"
+                "reference": "2c39f96e53b7d3206f320934298d64502594056f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/enhavo/enhavo/zipball/cd0a46f7495ac40be1c2f9edf8b784af7a00ed3e",
-                "reference": "cd0a46f7495ac40be1c2f9edf8b784af7a00ed3e",
+                "url": "https://api.github.com/repos/enhavo/enhavo/zipball/2c39f96e53b7d3206f320934298d64502594056f",
+                "reference": "2c39f96e53b7d3206f320934298d64502594056f",
                 "shasum": ""
             },
             "require": {
@@ -1350,7 +1350,7 @@
                 "MIT"
             ],
             "description": "enhavo",
-            "time": "2017-04-23 21:22:32"
+            "time": "2017-04-23 22:32:54"
         },
         {
             "name": "facebook/graph-sdk",
