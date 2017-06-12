@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "de62c8fdaeed9e043340c3c2732acc0c",
-    "content-hash": "6fa93bb172ab174fbda48342694522e4",
+    "hash": "325eabc3cab807b362d6d960190b464e",
+    "content-hash": "74a8789eb68763c3877657b5050980e8",
     "packages": [
         {
             "name": "bacon/bacon-string-utils",
@@ -1236,16 +1236,16 @@
         },
         {
             "name": "enhavo/enhavo",
-            "version": "dev-master",
+            "version": "0.3.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/enhavo/enhavo.git",
-                "reference": "1a876d5cabd039bdcc3e1d72c05c8c7269bae9f2"
+                "reference": "cbbc60753c43df2a641b497a3b44c26216d8303d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/enhavo/enhavo/zipball/1a876d5cabd039bdcc3e1d72c05c8c7269bae9f2",
-                "reference": "1a876d5cabd039bdcc3e1d72c05c8c7269bae9f2",
+                "url": "https://api.github.com/repos/enhavo/enhavo/zipball/cbbc60753c43df2a641b497a3b44c26216d8303d",
+                "reference": "cbbc60753c43df2a641b497a3b44c26216d8303d",
                 "shasum": ""
             },
             "require": {
@@ -1350,7 +1350,7 @@
                 "MIT"
             ],
             "description": "enhavo",
-            "time": "2017-05-27 14:13:34"
+            "time": "2017-06-12 14:03:41"
         },
         {
             "name": "facebook/graph-sdk",
