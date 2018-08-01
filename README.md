@@ -1,4 +1,4 @@
-enhavo shop edition
+Enhavo shop edition
 -------------------
 
 This is the shop edition of enhavo and serve a full shop system based on sylius components. 
