@@ -1,14 +1,12 @@
 parameters:
-  locale: en
+    locale: en
 
 enhavo_app:
     menu:
         dashboard:
             type: dashboard
         user:
-            type: user_user
-        group:
-            type: user_group
+            type: user
         article:
             type: article
         page:
@@ -20,19 +18,24 @@ enhavo_app:
         slider:
             type: slider
         newsletter:
-            type: newsletter_newsletter
-        subscriber:
-            type: newsletter_subscriber
+            type: newsletter
         calendar:
             type: calendar
-        product:
-            type: shop_product
-        order:
-            type: shop_order
+        shop:
+            type: shop
         setting:
             type: setting
-        translation-strings:
+        navigation:
+            type: navigation
+        translation_strings:
             type: translation
+        redirect:
+            type: redirect
+        magazine:
+            type: base
+            route: enhavo_project_magazine_index
+            icon: open-book
+            label: Magazine
 
 enhavo_grid:
     items:
