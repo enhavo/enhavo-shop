@@ -2,7 +2,7 @@ Enhavo shop edition
 -------------------
 
 This is the shop edition of enhavo and serve a full shop system based on sylius components. 
-Enhavo is CMS is a open source PHP project based on the fullstack Symfony framework and uses awesome Sylius components
+Enhavo is a content management system. It's a open source PHP project based on the fullstack Symfony framework and uses awesome Sylius components
 to serve a very flexible software, that can handle most of complex data structure with a clean and usability interface.
 
 Installation
